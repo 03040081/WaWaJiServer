@@ -1,0 +1,19 @@
+#Wed Mar 14 10:38:04 CST 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\12
+base.4=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\15
+base.3=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\13
+base.2=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\16
+base.1=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\11
+base.0=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\14
+file.5=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\12\\classes.dex
+file.4=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\15\\classes.dex
+file.3=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\13\\classes.dex
+file.2=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\16\\classes.dex
+file.1=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\11\\classes.dex
+file.0=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\14\\classes.dex

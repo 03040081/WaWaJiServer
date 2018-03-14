@@ -1,0 +1,4 @@
+#Wed Mar 14 10:06:50 CST 2018
+base.0=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\7
+renamed.0=classes.dex
+file.0=D\:\\Users\\Administrator\\AndroidStudioProjects\\WaWaJiServer\\app\\build\\intermediates\\transforms\\dexMerger\\xwawaji\\debug\\7\\classes.dex
